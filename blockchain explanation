@@ -1,0 +1,10 @@
+Blockchain — The million-dollar buzzword. We’ve all heard the stories of overnight crypto riches. 
+But will cryptocurrencies like Bitcoin (or blockchain, their underlying data structure) revolutionize the world?
+Or will they remain a fascinating experiment in open-source? 
+Nobody can say for sure.
+Either way, they’re a lot of fun to write!
+What is a blockchain? Skip ahead if you’re already familiar, but basically, a blockchain is open-source software that is shared between thousands of computers.
+These computers all follow a set of rules to track money that’s been sent from accounts tied to the blockchain software.
+Each “block” is a group of data that says, for example, “Hassan paid Bob 100ksh on Monday, February 15th.” On the blockchain, I can send you money without using a bank!
+For this project you’ll only need Python. Keep in mind, our blockchain will be a simplified, high-level introduction…we won’t build the full-blown Bitcoin blockchain.
+Instead we’ll create functions to add blocks, transactions, and encryption so that our data’s tamper-proof. Let’s dive in!
